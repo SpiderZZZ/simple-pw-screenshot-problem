@@ -1,0 +1,1 @@
+docker run --rm --network host -v "%cd%":/work/ -w /work/ -it mcr.microsoft.com/playwright:v1.29.2-focal bash -c "npm install && npx playwright install --with-deps && /bin/bash"

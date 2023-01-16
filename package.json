@@ -1,0 +1,21 @@
+{
+  "name": "simple-pw-screenshot-problem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpiderZZZ/simple-pw-screenshot-problem.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SpiderZZZ/simple-pw-screenshot-problem/issues"
+  },
+  "homepage": "https://github.com/SpiderZZZ/simple-pw-screenshot-problem#readme",
+  "devDependencies": {
+    "@playwright/test": "1.29.1"
+  }
+}
